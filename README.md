@@ -29,6 +29,9 @@ or they can modify and update their personal profiles.
 > **NOTE:** this is only a rough plan. Ideas may be removed/added/modified in
 > the future.
 
+## Programming languages
+> HTML, CSS, JS, a bit of AJAX, SQL(Microsoft SQL Server), #PHP
+
 ## License
 
 All source code is licensed under the [MIT license](https://mit-license.org/).
