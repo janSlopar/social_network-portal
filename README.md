@@ -30,7 +30,10 @@ or they can modify and update their personal profiles.
 > the future.
 
 ## Programming languages
-> HTML, CSS, JS, a bit of AJAX, SQL(Microsoft SQL Server), #PHP
+> HTML, CSS
+> JS, a bit of AJAX
+> PHP
+> SQL(Microsoft SQL Server)
 
 ## License
 
